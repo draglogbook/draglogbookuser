@@ -1,1 +1,1 @@
-User Info will be located under http://draglogbook.github.io/draglogbookuser/index.md
+User Info will be located under https://draglogbook.github.io/
